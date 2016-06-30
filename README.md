@@ -8,6 +8,8 @@ Gracias a todos ellos por su entusiamo.
 
 # [Ideas](./ideas.md)
 
-# [Proyectos](./proyectos.md)
+# [Proyectos propuestos](./proyectos.md)
 
-# [Elementos básicos](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/comunes.md)
+# [Proyectos realizados](./ProyectosCursos.md)
+
+# [Elementos básicos](./comunes.md)

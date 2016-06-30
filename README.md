@@ -7,3 +7,5 @@ Algunos de los proyectos se quedaron sólo en propuestas, otros llegaron a proto
 Gracias a todos ellos por su entusiamo.
 
 # [Ideas](./ideas.md)
+
+# [Proyectos](./proyectos.md)
